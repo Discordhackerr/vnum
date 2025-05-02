@@ -1,0 +1,67 @@
+{
+  "setID" : "FDEF3EA4-A82A-4BF5-96AE-4C57B04A5F55",
+  "menuItemCount" : 3,
+  "exportDate" : "2025-05-02T00:48:43Z",
+  "setName" : "NXCG_2",
+  "tags" : [
+
+  ],
+  "menuItems" : [
+    {
+      "iconColour" : "0A84FF",
+      "field4" : "",
+      "title" : "Shop",
+      "transparentBG" : true,
+      "maskType" : "None",
+      "subtitle" : "Buy Ranks And Upgrades",
+      "field2" : "",
+      "bgColour" : "FFFFFF",
+      "iconType" : "sfSymbol",
+      "field3" : "",
+      "isDisabled" : false,
+      "symbolScale" : "large",
+      "symbolWeight" : "Black",
+      "field1" : "",
+      "iconString" : "wallet.bifold.fill",
+      "id" : "C83CDC34-CCF4-4F4F-BC2F-1272F0D14D69",
+      "index" : 1
+    },
+    {
+      "bgColour" : "000000",
+      "transparentBG" : true,
+      "title" : "Settings",
+      "field3" : "",
+      "index" : 2,
+      "id" : "370841D4-DD63-4193-B55F-E50E14F3E523",
+      "iconString" : "gear.circle.fill",
+      "field1" : "",
+      "field2" : "",
+      "isDisabled" : false,
+      "iconType" : "sfSymbol",
+      "symbolWeight" : "Black",
+      "maskType" : "None",
+      "iconColour" : "0A84FF",
+      "symbolScale" : "large",
+      "field4" : "",
+      "subtitle" : "Configure The Game"
+    },
+    {
+      "field3" : "",
+      "subtitle" : "Execute Game Code To Modify The Game",
+      "isDisabled" : false,
+      "transparentBG" : true,
+      "symbolScale" : "large",
+      "index" : 3,
+      "iconString" : "apple.terminal.circle.fill",
+      "iconColour" : "0A84FF",
+      "field2" : "",
+      "id" : "FF3B08F2-DA58-4094-BCE5-ECC48739FC7B",
+      "iconType" : "sfSymbol",
+      "symbolWeight" : "Black",
+      "field1" : "",
+      "title" : "Terminal",
+      "maskType" : "None",
+      "field4" : ""
+    }
+  ]
+}
